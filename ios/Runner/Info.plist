@@ -70,7 +70,7 @@
 	<string>Allow access to photo library to pick photos for updating documents and profile pictures</string>
 	<key>UIBackgroundModes</key>
 	<array>
-		<string>audio</string>
+		
 		<string>fetch</string>
 		<string>location</string>
 		<string>processing</string>
